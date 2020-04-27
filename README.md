@@ -6,3 +6,4 @@
 4. git commit -m"reason"
 5. git push origin master
 6. refresh GitHub page. Should have updated times
+7. to update on pythonanywhere review Udemy video 274 and 275
