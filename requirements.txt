@@ -24,7 +24,7 @@ pre-commit==2.2.0
 py==1.8.1
 pyjokes==0.6.0
 pyparsing==2.4.7
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 PySocks==1.7.1
 PyYAML==5.3.1
 requests==2.23.0
